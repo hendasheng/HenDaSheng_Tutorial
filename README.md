@@ -8,4 +8,4 @@
 
 ## 目录
 * [01_如何用 Processing 模拟弹幕?](01_Danmaku)
-* [02_Processing 如何更快地设置颜色](02_StringToColor)
+* [02_Processing 如何更快地设置颜色?](02_StringToColor)
