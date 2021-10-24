@@ -7,5 +7,5 @@
 [b 站](https://space.bilibili.com/25994604?spm_id_from=333.788.b_765f7570696e666f.2) | [YouTube](https://www.youtube.com/channel/UCbNta62FKZgKpnwnsjRq-dg)
 
 ## 目录
-* 01_如何用 Processing 模拟弹幕?｜Processing 教程
-    * [b 站](https://www.bilibili.com/video/BV13P4y1b7dT?spm_id_from=444.41.0.0) | [YouTube](https://www.youtube.com/watch?v=t7mOZxQOEAk&t=9s)
+* [01_如何用 Processing 模拟弹幕?](01_Danmaku)
+* [02_Processing 如何更快地设置颜色](02_StringToColor)
